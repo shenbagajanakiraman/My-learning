@@ -7,6 +7,7 @@
 ### Spring MVC
 ### Springboot
 ### Docker
+### Kubernetes 
 ### HTTP and REST
 ### Swagger
 ### Version control with Git ( GitHub vs BitBucket )
@@ -22,7 +23,7 @@
 ### Cloud Infrastructure
 ### Testing
 
-## Some Random Links…
+## Some Random Linksâ€¦
 
 #### https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz	
 
